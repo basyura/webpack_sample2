@@ -1,1 +1,3 @@
-# webpack_sample1
+# webpack_sample2
+
+typescript プロジェクトに変換
